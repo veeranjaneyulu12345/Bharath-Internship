@@ -15,4 +15,30 @@ Project Structure
    notebooks: Jupyter notebooks used for data exploration, model development, and evaluation.
    src: Python source code for building and training the machine learning model.
    models: Saved models and model artifacts.
+
+
+
+
+
+
+
+
+
+
+
+
+Movie Recommendation Project
+
+Overview
+Welcome to the Movie Recommendation Project! This project is designed to provide personalized movie recommendations using collaborative filtering techniques. Collaborative filtering is a popular method in recommendation systems that leverages user behavior and preferences to suggest items.
+
+
+
+Project Structure
+
+data: Contains the dataset used for training and testing the recommendation system.
+notebooks: Jupyter notebooks used for data exploration, model development, and evaluation.
+src: Python source code for building and training the recommendation system.
+models: Saved models and model artifacts.
+   
    
